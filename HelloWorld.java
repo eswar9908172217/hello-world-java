@@ -37,7 +37,7 @@ public class HelloWorld {
     System.out.println("Hello, eswar");
     System.out.println("this is nicy");
     System.out.println("Hello, suma");
-    System.out.println("Hello, esware");
+    System.out.println("Hello, eswar");
     System.out.println("Hello, kadapa ");
     System.out.println("Hello, wed......................");
   }
